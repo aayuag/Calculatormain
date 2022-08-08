@@ -1,0 +1,15 @@
+div{
+    margin: 1px solid black;
+}
+.flex{
+    display: flex;
+}
+.width{
+    width: 300px;
+}
+button{
+    padding: 30px;
+}
+.right{
+    float: right;
+}
